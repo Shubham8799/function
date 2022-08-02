@@ -9,5 +9,5 @@ elif operation == "2":
 	 num2 = input("enter second number :")
 	 print(int(num1)*int(num2))
 else:
-    pass print("invalid")
+  print("invalid")
     
