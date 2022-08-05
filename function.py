@@ -1,4 +1,5 @@
 print("1. addition")
+print("2. Multiplication ") 
 operation = input("choose number:")
 if operation =="1":
    num1 = input("enter first number : ")
